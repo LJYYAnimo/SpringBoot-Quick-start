@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+student:
+  name: "小明"
+  age: 8
+  school: "蓝天希望小学"
+  uuid: ${random.uuid}
+sex: 男

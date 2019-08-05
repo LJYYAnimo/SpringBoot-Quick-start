@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+connect:
+  appId: 101744617
+  appKey: 8f7784b6b582b1d2117f34b549ad3193
+  uri: http://p95rqj.natappfree.cc
+  returnUri: ${connect.uri}/callback

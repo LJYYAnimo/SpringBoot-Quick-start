@@ -1,0 +1,11 @@
+
+${AnsiColor.YELLOW}
+      _                __
+     /.\      _ ___    LJ   _ _____      ____   
+    //_\\    J '__ J       J '_  _ `,   F __ J  
+   / ___ \   | |__| |  FJ  | |_||_| |  | |--| | 
+  / L___J \  F L  J J J  L F L LJ J J  F L__J J 
+ J__L   J__LJ__L  J__LJ__LJ__L LJ J__LJ\______/F
+ |__L   J__||__L  J__||__||__L LJ J__| J______F 
+
+:: Spring Boot :: ${spring-boot.version}

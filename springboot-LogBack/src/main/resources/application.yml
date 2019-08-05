@@ -1,0 +1,4 @@
+logging:
+  level:
+    com.animo.boot: trace #包的日志级别
+  file: /Users/liujinyong/Documents/log/springboot.log #保存位置
