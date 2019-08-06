@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+
+    <input id="money" name="money" placeholder="金额"/>
+    <button onclick="sub()"> 提交 </button>
+    <span id="msg" style="color: red;"> </span>
+
+</body>
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script>
+
+    function sub() {
+        $.get("/money", { money: $("#money").val()},     //参数列表
+            function(data){
+                // {code: 1, message: "金额为空", type: "ERROR"}
+                // {code: 0, message: "金额=12323", type: "SUCCESS"}
+                $("#msg").html(data.message);
+        });
+    }
+    
+</script>
+</html>
