@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/SpringBoot-Aop" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-Banner" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-Configuration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Exception" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-Hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-LogBack" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-QQ" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-Runner" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-LogBack" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-QQ" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-quartz" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

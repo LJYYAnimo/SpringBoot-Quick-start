@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Aop/SpringBoot-Aop.iml" filepath="$PROJECT_DIR$/SpringBoot-Aop/SpringBoot-Aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-Banner/SpringBoot-Banner.iml" filepath="$PROJECT_DIR$/SpringBoot-Banner/SpringBoot-Banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-Configuration/SpringBoot-Configuration.iml" filepath="$PROJECT_DIR$/SpringBoot-Configuration/SpringBoot-Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Exception/SpringBoot-Exception.iml" filepath="$PROJECT_DIR$/SpringBoot-Exception/SpringBoot-Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-Hello/SpringBoot-Hello.iml" filepath="$PROJECT_DIR$/SpringBoot-Hello/SpringBoot-Hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Quick start.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Quick start.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-LogBack/springboot-logback.iml" filepath="$PROJECT_DIR$/springboot-LogBack/springboot-logback.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-QQ/springboot-qq.iml" filepath="$PROJECT_DIR$/springboot-QQ/springboot-qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Pay/springboot-Pay.iml" filepath="$PROJECT_DIR$/SpringBoot-Pay/springboot-Pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-LogBack/springboot-logback.iml" filepath="$PROJECT_DIR$/SpringBoot-LogBack/springboot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-QQ/springboot-qq.iml" filepath="$PROJECT_DIR$/SpringBoot-QQ/springboot-qq.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-Runner/springboot-runner.iml" filepath="$PROJECT_DIR$/SpringBoot-Runner/springboot-runner.iml" />
     </modules>
   </component>

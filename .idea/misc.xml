@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/SpringBoot-Configuration/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-logback/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-qq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-Pay/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Exception/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Aop/pom.xml" />
       </list>
     </option>
   </component>

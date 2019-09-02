@@ -6,19 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot-Aop" />
         <module name="SpringBoot-Banner" />
         <module name="SpringBoot-Configuration" />
+        <module name="SpringBoot-Exception" />
         <module name="SpringBoot-Hello" />
         <module name="springboot-logback" />
+        <module name="springboot-Pay" />
         <module name="springboot-qq" />
         <module name="springboot-runner" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SpringBoot-Aop" target="1.8" />
       <module name="SpringBoot-Banner" target="1.8" />
       <module name="SpringBoot-Configuration" target="1.8" />
+      <module name="SpringBoot-Exception" target="1.8" />
       <module name="SpringBoot-Hello" target="1.8" />
       <module name="springboot-logback" target="1.8" />
+      <module name="springboot-Pay" target="1.8" />
       <module name="springboot-qq" target="1.8" />
       <module name="springboot-quartz" target="1.8" />
       <module name="springboot-runner" target="1.8" />
