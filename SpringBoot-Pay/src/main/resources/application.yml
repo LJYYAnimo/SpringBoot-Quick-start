@@ -1,7 +1,7 @@
 server:
   port: 8081
 
-prefix: http://i2d4g8.natappfree.cc
+prefix: http://we9xet.natappfree.cc
 
 alipay:
   url: "https://openapi.alipaydev.com/gateway.do"

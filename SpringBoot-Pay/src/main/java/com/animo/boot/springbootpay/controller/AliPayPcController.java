@@ -49,7 +49,7 @@ public class AliPayPcController {
     @ResponseBody
     public String returnUrl(HttpServletRequest request){
         Map<String,String> params = MapUtil.getRequestMap(request);
-        System.out.println(params.toString());
+        System.out.println("回调通知:"+params.toString());
         try {
             //验证SDK签名是否是支付宝发送的
             boolean signVerified = AlipaySignature.rsaCheckV1(params, aliPayConfig.getAlipayPublicKey(), aliPayConfig.getCharSet(), aliPayConfig.getSignType());
@@ -73,7 +73,7 @@ public class AliPayPcController {
     @ResponseBody
     public String noTiTyUrl(HttpServletRequest request) throws AlipayApiException {
         Map<String,String> params = MapUtil.getRequestMap(request);
-        System.out.println(params.toString());
+        System.out.println("异步通知:"+params.toString());
         //商户系统接收到异步通知以后，必须通过验签（验证通知中的 sign 参数）来确保支付通知是由支付宝发送的
         boolean signVerified = AlipaySignature.rsaCheckV1(params, aliPayConfig.getAlipayPublicKey(), aliPayConfig.getCharSet(), aliPayConfig.getSignType());
 
